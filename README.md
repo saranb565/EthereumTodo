@@ -56,22 +56,21 @@ npm run dev
 
 ## 📸 Screenshots
 
-### 🔹 Home Page
 <img src="https://drive.google.com/uc?id=1O_ngH567JMGHMAIeYMNinGpZvGan7y67" alt="Home Page" width="600"/>
 
 ### 🔹 Adding a Task
 <img src="https://drive.google.com/uc?id=1Qpv4ttgd3kNG-W3EIkxp93KoNPKk_Tvi" alt="Adding a Task" width="600"/>
 
-### 🔹 Task List
+
 <img src="https://drive.google.com/uc?id=1uNAWeYII8cx3Mv0YeLkLl2g9JzONthf_" alt="Task List" width="600"/>
 
 ### 🔹 Task Completion
 <img src="https://drive.google.com/uc?id=1HP0qpNtxSAx0LIHGuvDbzdO5vwOGJ1AB" alt="Task Completion" width="600"/>
 
-### 🔹 Smart Contract Interaction
+
 <img src="https://drive.google.com/uc?id=1KdJP0FA7CxmhzR-lNt3mBIk7fkRotHP4" alt="Smart Contract Interaction" width="600"/>
 
-### 🔹 Metamask Connection
+### 🔹 Ganache Accounts
 <img src="https://drive.google.com/uc?id=1kXdQu7s0hO0AC8PCKwVWr8r8-V-5qyGx" alt="Metamask Connection" width="600"/>
 
 
