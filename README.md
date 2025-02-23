@@ -71,7 +71,11 @@ npm run dev
 <img src="https://drive.google.com/uc?id=1KdJP0FA7CxmhzR-lNt3mBIk7fkRotHP4" alt="Smart Contract Interaction" width="600"/>
 
 ### 🔹 Ganache Accounts
-<img src="https://drive.google.com/uc?id=1kXdQu7s0hO0AC8PCKwVWr8r8-V-5qyGx" alt="Metamask Connection" width="600"/>
+<img src="https://drive.google.com/uc?id=1kXdQu7s0hO0AC8PCKwVWr8r8-V-5qyGx" alt="Ganache " width="600"/>
+
+### 🔹 Metamask (For Connecting to the Ethereum)
+<img src="https://drive.google.com/uc?id=1XB2AabO6-hpTnOK4fnNHSypTs-YFXBT7" alt="Metamask " width="600"/>
+
 
 
 
