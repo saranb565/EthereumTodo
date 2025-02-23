@@ -1,7 +1,7 @@
 # Ethereum Blockchain To-Do App
 
 ## 📌 Introduction
-This project is a decentralized To-Do application built on the Ethereum blockchain. It allows users to securely create, manage, and complete tasks in a tamper-proof manner using smart contracts.
+This project is a decentralized To-Do application built on the Ethereum blockchain. It allows users to securely create, manage, and complete tasks in a tamper-proof manner using smart contracts. More Secure as developed on Blockchain rather than the conventional method of Databases.
 
 ## 🚀 Features
 - 📝 **Add, Update, and Delete Tasks** securely on the blockchain.
@@ -30,8 +30,8 @@ ethereum-todo-app/
 ## ⚙️ Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone <repo-url>
-cd ethereum-todo-app
+git clone https://github.com/saranb565/EthereumTodo.git
+cd EthereumTodo
 ```
 
 ### 2️⃣ Install Dependencies
@@ -46,12 +46,12 @@ npm install
 
 ### 4️⃣ Deploy Smart Contract
 ```sh
-truffle migrate --reset --network development
+truffle migrate --reset
 ```
 
 ### 5️⃣ Run the App
 ```sh
-npm start
+npm run dev
 ```
 
 ## 🛠️ Usage
